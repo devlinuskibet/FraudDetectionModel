@@ -1,0 +1,31 @@
+{
+  "strict_behavioural": [
+    "amt_z_own",
+    "hour",
+    "steps_since_last",
+    "is_new_recipient",
+    "recip_cnt_24"
+  ],
+  "behavioural_plus_amount": [
+    "amt_z_own",
+    "hour",
+    "steps_since_last",
+    "is_new_recipient",
+    "recip_cnt_24",
+    "amount_log"
+  ],
+  "profile": [
+    "prior_mean_log",
+    "prior_std_log",
+    "prior_count"
+  ],
+  "balance": [
+    "oldBalInitiator_log",
+    "newBalInitiator_log",
+    "amount_to_balance",
+    "init_bal_diff",
+    "oldBalRecipient_log",
+    "newBalRecipient_log",
+    "recip_bal_diff"
+  ]
+}
