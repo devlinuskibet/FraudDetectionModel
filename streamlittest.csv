@@ -1,0 +1,16 @@
+transaction_id,description,amt_z_own,hour,steps_since_last,is_new_recipient,recip_cnt_24
+TXN_001,Normal recurring bill payment,0.05,14,1.0,0,15.0
+TXN_002,Standard peer transfer,-0.41,12,0.0,0,12.0
+TXN_003,Small grocery transfer,-0.33,16,0.0,1,12.0
+TXN_004,Salary or rent payment to known contact,0.85,10,24.0,0,10.0
+TXN_005,Slightly higher amount to new friend,0.98,13,0.0,1,8.0
+TXN_006,Morning coffee to vendor,-0.25,8,0.0,0,25.0
+TXN_007,Late evening transfer to existing contact,0.12,22,2.0,0,9.0
+TXN_008,Frequent transfer to known merchant,-0.15,15,1.0,0,18.0
+TXN_009,Midday peer payment,0.22,11,1.0,0,14.0
+TXN_010,Elevated transfer after brief inactivity,0.50,17,3.0,1,6.0
+TXN_011,ALERT: Dormant flare 8h inactivity gap,0.09,2,8.0,1,7.0
+TXN_012,ALERT: Night transfer after 10h inactivity,-0.25,3,10.0,1,12.0
+TXN_013,ALERT: Massive spike amount to new recipient,3.10,1,7.0,1,3.0
+TXN_014,ALERT: Long dormant flare 18h gap,0.20,4,18.0,1,8.0
+TXN_015,ALERT: 11h inactivity gap to new recipient,-0.17,16,11.0,1,12.0
