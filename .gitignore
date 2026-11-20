@@ -1,0 +1,26 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Large Raw Datasets (ignored due to size limits)
+Synthetic Mobile Money Transaction Dataset/MoMTSim_20240722202413_1000_dataset.csv
+Synthetic Mobile Money Transaction Dataset/synthetic_mobile_money_transaction_dataset.csv
+*.csv.gz
+*.zip
+
+# Operating System & IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
