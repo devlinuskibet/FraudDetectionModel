@@ -1,0 +1,16 @@
+row_id,true_label,alert_text
+1029944,1,"Risk score 0.97. Factors raising the score: amount deviation from this account's usual transfer size (z-score +3.1, higher than 99% of legitimate transfers) (+1.77); 3 steps since this account's previous transfer (higher than 99% of legitimate transfers) (+0.53)."
+581266,1,"Risk score 0.97. Factors raising the score: 17 steps since this account's previous transfer (more extreme than any legitimate transfer in the reference data) (+1.67); recipient received 5 transfers in the previous 24 steps (lower than 97% of legitimate transfers) (+0.47); amount deviation from this account's usual transfer size (z-score +0.8, higher than 96% of legitimate transfers) (+0.31)."
+1049964,1,Risk score 0.97. Factors raising the score: 20 steps since this account's previous transfer (more extreme than any legitimate transfer in the reference data) (+1.82).
+3848691,1,"Risk score 0.97. Factors raising the score: amount deviation from this account's usual transfer size (z-score +2.8, higher than 98% of legitimate transfers) (+1.56); 7 steps since this account's previous transfer (higher than 99.7% of legitimate transfers) (+1.02)."
+1115801,1,Risk score 0.97. Factors raising the score: 19 steps since this account's previous transfer (more extreme than any legitimate transfer in the reference data) (+2.05).
+716847,0,Risk score 0.86. Factors raising the score: recipient received 5 transfers in the previous 24 steps (lower than 97% of legitimate transfers) (+0.51); 2 steps since this account's previous transfer (higher than 97% of legitimate transfers) (+0.42).
+1603185,0,Risk score 0.89. Factors raising the score: 5 steps since this account's previous transfer (higher than 99.5% of legitimate transfers) (+1.27).
+2806256,0,"Risk score 0.90. Factors raising the score: amount deviation from this account's usual transfer size (z-score +1.7, higher than 98% of legitimate transfers) (+1.24)."
+4055054,0,Risk score 0.86. Factors raising the score: 4 steps since this account's previous transfer (higher than 99.2% of legitimate transfers) (+1.15).
+600678,0,"Risk score 0.90. Factors raising the score: amount deviation from this account's usual transfer size (z-score +1.5, higher than 98% of legitimate transfers) (+1.16)."
+1877696,1,Risk score 0.89. Factors raising the score: 5 steps since this account's previous transfer (higher than 99.5% of legitimate transfers) (+1.20).
+3297309,1,Risk score 0.94. Factors raising the score: 8 steps since this account's previous transfer (higher than 99.8% of legitimate transfers) (+1.91).
+2448310,1,"Risk score 0.96. Factors raising the score: amount deviation from this account's usual transfer size (z-score +2.6, higher than 98% of legitimate transfers) (+2.13)."
+501444,1,"Risk score 0.95. Factors raising the score: amount deviation from this account's usual transfer size (z-score +3.0, higher than 99% of legitimate transfers) (+1.80)."
+661594,1,Risk score 0.86. Factors raising the score: recipient received 5 transfers in the previous 24 steps (lower than 97% of legitimate transfers) (+0.60).
